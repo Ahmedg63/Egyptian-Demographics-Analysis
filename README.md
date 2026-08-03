@@ -1,5 +1,5 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5f693da4-effe-40a0-83ef-307d689315ac" />
-# 🇪🇬 Egyptian Demographics & Marriage Distribution Analysis
+# Egyptian Demographics & Marriage Distribution Analysis
 
 ## Project Overview
 This project is an end-to-end data analytics pipeline focusing on the adult demographic and marriage distribution across Egypt. The goal was to extract raw census data, perform exploratory data analysis (EDA) and data cleaning using SQL Server, and build an interactive Power BI dashboard to visualize population trends across different regions, life stages, and genders.
@@ -7,7 +7,7 @@ This project is an end-to-end data analytics pipeline focusing on the adult demo
 ## Tools & Technologies Used
 * **SQL Server:** Data extraction, filtering out non-applicable demographics (minors), and aggregating population totals.
 * **Power BI:** Data modeling, DAX, and building the final interactive dashboard.
-* **Data Source:** Open-source Egyptian census datasets.
+* **Data Source:** 2017 Annual Census Data provided by the Central Agency for Public Mobilization and Statistics of Egypt (CAPMAS). [Link to source](https://www.capmas.gov.eg)
 
 ## Key Insights & Business Takeaways
 
