@@ -9,7 +9,7 @@ This project is an end-to-end data analytics pipeline focusing on the adult demo
 * **Power BI:** Data modeling, DAX, and building the final interactive dashboard.
 * **Data Source:** Open-source Egyptian census datasets.
 
-## 📊 Key Insights & Business Takeaways
+## Key Insights & Business Takeaways
 
 * **Rural Majority:** Rural areas hold 31.2M adults (~55% of the total), while Urban areas account for 25.6M (~45%). 
   * *Takeaway:* National programs and commercial campaigns targeted at adults must prioritize rural reach to hit the majority of the population.
